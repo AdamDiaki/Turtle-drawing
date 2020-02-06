@@ -2,10 +2,6 @@ package ex;
 
 import javafx.scene.canvas.GraphicsContext;
 
-/**
- * @author Christian Mada-Mbari
- *
- */
 public class Tortue {
 	private double direction;
 	private double x;
