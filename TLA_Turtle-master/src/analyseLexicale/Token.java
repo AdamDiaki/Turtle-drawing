@@ -1,9 +1,6 @@
 package analyseLexicale;
 
-/**
- * @author Christian Mada-Mbari
- *
- */
+
 public class Token {
 
 	private TokenClass cl;
