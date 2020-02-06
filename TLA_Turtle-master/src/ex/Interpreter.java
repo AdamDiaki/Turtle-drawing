@@ -9,10 +9,6 @@ import analyseLexicale.TokenClass;
 import analyseSyntaxique.Parser;
 import javafx.scene.canvas.GraphicsContext;
 
-/**
- * @author Christian Mada-Mbari
- *
- */
 public class Interpreter {
 
 	final static double INIT_X = 100;
