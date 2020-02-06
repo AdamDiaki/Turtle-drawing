@@ -2,10 +2,6 @@ package analyseLexicale;
 
 import java.util.Scanner;
 
-/**
- * @author Christian Mada-Mbari
- *
- */
 public class SourceReader {
 
 	private String entree;
