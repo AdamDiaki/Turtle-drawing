@@ -5,10 +5,7 @@ import java.util.ArrayList;
 import analyseLexicale.Token;
 import analyseLexicale.TokenClass;
 
-/**
- * @author Christian Mada-Mbari
- *
- */
+
 public class Parser {
 
 	private int pos;
