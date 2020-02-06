@@ -10,10 +10,7 @@ import analyseSyntaxique.Parser;
 
 
 
-/**
- * @author Christian Mada-Mbari
- *
- */
+
 public class Main {
 	
 	
