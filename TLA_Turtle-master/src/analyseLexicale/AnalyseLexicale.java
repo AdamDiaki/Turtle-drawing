@@ -7,10 +7,7 @@ import java.util.ArrayList;
 
 import analyseSyntaxique.Parser;
 
-/**
- * @author Christian Mada-Mbari
- *
- */
+
 public class AnalyseLexicale {
 	
 	private String entree;
